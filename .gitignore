@@ -1,0 +1,12 @@
+*.pyc
+.DS_Store
+snapshots/settings.py
+build
+src
+snapshots/tmp/*
+snapshots/check.py
+snapshots/gunicorn.py
+snapshots/logs
+snapshots/Capfile
+snapshots/config
+snapshots/*.pyc
